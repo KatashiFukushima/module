@@ -1,6 +1,6 @@
 {
-  "name": "module-gatadios",
-  "version": "1.0.9",
+  "name": "module-katashi",
+  "version": "1.0.0",
   "description": "Módulo para obtener información y imágenes random.",
   "main": "index.js",
   
